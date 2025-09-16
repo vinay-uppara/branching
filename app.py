@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 
-app = Flask(__name__)
+app = Flask(__vinay uppara__)
 
 # Home route
 @app.route("/")
